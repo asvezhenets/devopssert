@@ -1,2 +1,2 @@
 This is FileA
-This a change to the file 
+This a change to the file git status
